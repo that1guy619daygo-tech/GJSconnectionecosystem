@@ -1,0 +1,15 @@
+## GJS Connection Ecosystem
+
+**Juggernaut OS + CrewAI + Ollama AI Agent Ecosystem**
+
+## 🎯 Purpose
+Open-source AI agent framework connecting Juggernaut OS orchestration with autonomous agents powered by local LLMs.
+
+## 🏗️ Architecture
+- **Orchestration**: Juggernaut OS
+- **Agent Execution**: CrewAI
+- **AI Models**: Ollama (Llama 3.1/Mistral)
+- **Automation**: n8n workflows
+- **Database**: Supabase
+
+## 📁 Project Structure
